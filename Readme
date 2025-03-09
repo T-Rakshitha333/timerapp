@@ -1,0 +1,27 @@
+This is a simple yet functional Timer App built using HTML, CSS, and JavaScript. It provides a Pomodoro-style countdown timer with different modes, including:
+
+Pomodoro Mode (25 min)
+
+Short Break (5 min)
+
+Long Break (15 min)
+
+The app allows users to start, pause, reset, and stop the timer. When the countdown reaches zero, an audio alert is played.
+
+Features
+
+1. Start, stop, and reset the timer
+2. Display countdown in minutes and seconds
+3. Switch between Short Break, and Long Break modes
+4. Responsive design for mobile, tablet, and desktop
+
+
+Tech Stack
+
+HTML → For structuring the app
+
+CSS → For styling and responsiveness
+
+JavaScript → For timer functionality
+
+Installation & Usage
